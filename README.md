@@ -51,7 +51,7 @@ This repository provides everything you need to deploy **Apache NiFi** on **Snow
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/nifi-on-snowflake-spcs.git
+git clone https://github.com/yuhenghub/nifi-on-snowflake-spcs.git
 cd nifi-on-snowflake-spcs
 
 # 2. Configure your Snowflake connection
@@ -214,4 +214,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 - 📖 [Documentation](docs/)
-- 🐛 [Report Issues](https://github.com/your-username/nifi-on-snowflake-spcs/issues)
+- 🐛 [Report Issues](https://github.com/yuhenghub/nifi-on-snowflake-spcs/issues)
